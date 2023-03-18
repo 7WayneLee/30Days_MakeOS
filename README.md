@@ -18,11 +18,21 @@
 <img src="Day_one\error_1.jpg" alt="Day_1_error_1_image" style="zoom:50%;" />
 
 這裏出現了一點很搞笑的情況
+
 在未安裝 QEUM 時，輸入 run => enter 會出現未知命令的問題
+
 當我安裝完 QEUM 后按照書本的步驟再次運行 卻出現了 error_1 這個問題
+
 於是我選擇重啓
+
 但重啓后發現還是一樣的情況
-於是我在摸索后選擇采用一點暴力的辦法 就像我上面的選擇方法 直接將 helloos.img 拖入到 qemu-system-x86_64.exe 結果 Hello World 運行成功
+
+於是我在摸索后選擇采用一點暴力的辦法 就像我上面的選擇方法 直接將 helloos.img 拖入到 qemu-system-
+
+x86_64.exe 結果 Hello World 運行成功
+
 原本以爲這就算解決了 結果當我在 part two 再次運行 helloos.img 時 發現輸入 run 就能夠直接運行成功
+
 於是我便回去到 helloos0 嘗試直接 run 運行 helloos.img 發現也能成功運行了 
+
 So... just be it 
