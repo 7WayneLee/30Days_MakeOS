@@ -14,7 +14,7 @@
 ~~error_1: 在 run helloos.img 時 出現未知錯誤 無法按照書本步驟正常運行~~
 ~~解決方法：install QEMU => 使用 qemu-system-x86_64.exe 直接運行 helloos.img~~
 
-![Day_1_error_1_image](F:\30Days_MakeOS\Day_one\error_1.jpg)
+![Day_1_error_1_image](\Day_one\error_1.jpg)
 
 這裏出現了一點很搞笑的情況
 在未安裝 QEUM 時，輸入 run => enter 會出現未知命令的問題
