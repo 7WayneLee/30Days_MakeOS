@@ -37,9 +37,9 @@ x86_64.exe 結果 Hello World 運行成功
 
 So... just be it 
 
-### day two
+### #day two
 
-error_1: 在運行 make -r ipl.bin 時 出現了 “ *** missing separator.  Stop. ” 的錯誤提示
+**error_1**: 在運行 make -r ipl.bin 時 出現了 “ *** missing separator.  Stop. ” 的錯誤提示
 
 根據 Makefile 裏的報錯提示 可以知道是在第四行出現了問題 但由於之前沒有使用過 Makefile 並不知道是什麽問題 所以我把錯誤内容 Google 了一下 馬上發現了問題所在
 
@@ -49,7 +49,7 @@ error_1: 在運行 make -r ipl.bin 時 出現了 “ *** missing separator.  Sto
 
 <img src="Day_two\error_1.jpg" alt="Day_2_error_1_image" style="zoom:75%;" />
 
-error_2: 玄學bug 
+**error_2**: 玄學bug 
 
 一開始一直出錯 無法運行 以爲是 TAB 和空格的問題 一直調試發現怎麽都調試不好
 
